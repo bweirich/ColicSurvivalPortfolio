@@ -10,7 +10,7 @@ Hypothesize solution -
 I have chosen Linear Regression, DecisionTree, RandomForest and KNeighborsClassifier to predict the outcomes. I will use the Classification Report to gauge the effectiveness of the different models to select the best option.
 
 Select best model - 
-Based on the Classification Report measurements of f1-score and accuracy the Random Forest is the best model for prediction.
+Based on the Classification Report measurements of f1-score and accuracy the Logistic Regression is the best model for prediction.
 
 Conclusion - 
 Since the training dataset is fairly small I would recommend that more data is collected for the models to train on before the model is deployed for real world use in predictions.
