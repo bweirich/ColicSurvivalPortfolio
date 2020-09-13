@@ -7,7 +7,7 @@ Colic in horse is problem with the gastro-intestinal tract that causes abdominal
 This project will predict the survival of a horse based on the features of the medical condition of a horse. The ability to predict a horses survival will allow owners and veterinarians to make better decisions regarding the best interest of the horse and the cost to the owner.
 
 Hypothesize solution - 
-I have chosen Linear Regression, DecisionTree, RandomForest and KNeighborsClassifier to predict the outcomes. I will use the Classification Report to gauge the effectiveness of the different models to select the best option.
+I have chosen Logistic Regression, DecisionTree, RandomForest and KNeighborsClassifier to predict the outcomes. I will use the Classification Report to gauge the effectiveness of the different models to select the best option.
 
 Select best model - 
 Based on the Classification Report measurements of f1-score and accuracy the Logistic Regression is the best model for prediction.
