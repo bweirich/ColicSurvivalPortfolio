@@ -1,5 +1,5 @@
 # ColicSurvivalPortfolio
-Colic Survival Portfolio (Python) Colic Survival Portfolio (Python) This repository contains the python code for a colic Survival project. Details of the project can be read in the notebook.
+Colic Survival Portfolio (Python) This repository contains the python code for a colic Survival project. Details of the project can be read in the notebook.
 
 Problem - 
 Colic in horse is problem with the gastro-intestinal tract that causes abdominal pain. Colic can vary between mild cases to sever which can involve surgury. The cost of treatment can also vary greatly with the severity of the case.
