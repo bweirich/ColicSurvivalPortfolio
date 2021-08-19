@@ -8,15 +8,17 @@ This analysis will predict the survival of a horse based on the features of the 
 
 ## EDA (Exploratory Data Analysis)
 
-The feature variables distribution was examined and and the handling of null values was determined.  I created functions to assist with the visualization of numerical features and categorical features as well as functions to assist in the filling in of null values.  
+The feature variables distribution was examined and and the handling of null values was determined.  I created functions to assist with the visualization of numerical features and categorical features as well as functions to assist in the filling in of null values. 
 
+The distribution of the target variable (outcome) can be seen below:
+![alt_text](https://raw.githubusercontent.com/bweirich/ColicSurvivalPortfolio/master/images/outcome_distribution.PNG)
 
 The overall null values showed a distribution below:
 
 ![alt_text](https://raw.githubusercontent.com/bweirich/ColicSurvivalPortfolio/master/images/null_values.PNG)
 
 #### Rectal Temp
-![alt_text]()
+![alt_text](https://raw.githubusercontent.com/bweirich/ColicSurvivalPortfolio/master/images/rectal_temp.PNG)
 
 As the mean of the rectal temp is very close with regards to all the outcomes possible and the distribution is normal we will be able to fill in the null values with the mean rectal temp.
 
